@@ -27,9 +27,9 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 - 📞 Phone: +880 130417316 
 
 ## Activity Widgets
+![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=Developer-Jihad)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad)
 
 <!---
 

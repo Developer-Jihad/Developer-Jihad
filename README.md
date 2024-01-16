@@ -15,7 +15,8 @@
 ![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-<img src="https://i.ibb.co/2jM3X3F/pngwing-com-13.png" alt="Girl in a jacket" height="50">
+<div style="display:flex">
+  <img src="https://i.ibb.co/2jM3X3F/pngwing-com-13.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/bHNgjwY/1.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/L5Rxb83/axios.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/zmYymgB/pngwing-com-1.png" alt="Girl in a jacket" height="50">
@@ -27,8 +28,8 @@
 <img src="https://i.ibb.co/8dFB7cq/pngwing-com-8.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/DMsN2GY/pngwing-com-9.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/zXwchr0/pngwing-com-10.png" alt="Girl in a jacket" height="50">
-<img src="https://i.ibb.co/yBQHYMH/pngwing-com-11.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/CHtY7xJ/pngwing-com-12.png" alt="Girl in a jacket" height="50">
+</div>
 
 ## Activity Widgets
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats) 

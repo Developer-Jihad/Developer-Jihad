@@ -31,7 +31,8 @@
 
 ## Activity Widgets
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad)
 ![](https://komarev.com/ghpvc/?username=Developer-Jihad) </br>
 
 ## Connect with Me

@@ -7,7 +7,6 @@
 
 ## 🧠 Technical Skills
 <div>
-<img src="https://i.ibb.co/zmYymgB/pngwing-com-1.png" alt="Html" height="70">
 <img src="https://i.ibb.co/fQgM3xT/4781249.webp" alt="Html" height="70">
 <img src="https://i.ibb.co/mC6xnTP/pngwing-com-2.png" alt="CSS" height="70">
 <img src="https://i.ibb.co/zX1ws7q/New-Project-2.png" alt="Tailwind" height="70">
@@ -16,7 +15,7 @@
 <img src="https://i.ibb.co/hM3rM1v/New-Project-6.png" alt="React" height="70">
 <img src="https://i.ibb.co/RjtdC1y/New-Project-4.png" alt="Firebase" height="70">
 <img src="https://i.ibb.co/CHtY7xJ/pngwing-com-12.png" alt="Mongo" height="70">
-<img src="https://i.ibb.co/1r2gYtn/New-Project-5.png" alt="Mongo" height="70">
+
 <img src="https://i.ibb.co/ZgYLcpw/axios2.png" alt="Axios" height="70">
 <img src="https://i.ibb.co/2jM3X3F/pngwing-com-13.png" alt="Express" height="70">
 <img src="https://i.ibb.co/NsXNxVZ/New-Project-7.png" alt="NodeJs" height="70">

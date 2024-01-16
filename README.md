@@ -8,6 +8,7 @@
 ## 🧠 Technical Skills
 <div>
 <img src="https://i.ibb.co/zmYymgB/pngwing-com-1.png" alt="Html" height="70">
+<img src="https://i.ibb.co/fQgM3xT/4781249.webp" alt="Html" height="70">
 <img src="https://i.ibb.co/mC6xnTP/pngwing-com-2.png" alt="CSS" height="70">
 <img src="https://i.ibb.co/zX1ws7q/New-Project-2.png" alt="Tailwind" height="70">
 <img src="https://i.ibb.co/C8FJ80X/pngwing-com-6.png" alt="Bootstrap" height="70">

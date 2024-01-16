@@ -3,11 +3,11 @@
 ### 👋 As-salamu'alaikum Warohmatullah, Welcome to my Github Profile...
 
 ## 🚀 About Me
-❇️ I am a Junior Front-End Web Developer with a strong foundation in JavaScript, React JS, and proficient in Raw CSS, Tailwind, and Bootstrap. With a background in Graphics Design Skill. 
+- I am a Junior Front-End Web Developer with a strong foundation in JavaScript, React JS, and proficient in Raw CSS, Tailwind, and Bootstrap. With a background in Graphics Design Skill. 
 
-🧠 I can create visually stunning user interfaces with seamless and responsive designs. Whether it's developing dynamic and interactive web applications or refining the user experience, I am dedicated to staying at the forefront of technology trends and continuously expanding my skill set.
+- I can create visually stunning user interfaces with seamless and responsive designs. Whether it's developing dynamic and interactive web applications or refining the user experience, I am dedicated to staying at the forefront of technology trends and continuously expanding my skill set.
 
-🤝 Let's connect and explore how I can contribute to your Next Project. Feel free to reach out for discussions on web development, design, or anything related to the ever-evolving world of technology.
+- Let's connect and explore how I can contribute to your Next Project. Feel free to reach out for discussions on web development, design, or anything related to the ever-evolving world of technology.
 
 ### 📩 Connect with Me...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-jihad/)

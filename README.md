@@ -9,20 +9,16 @@
 
 🤝 Let's connect and explore how I can contribute to your Next Project. Feel free to reach out for discussions on web development, design, or anything related to the ever-evolving world of technology.
 </br></br>
-[linkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-jihad/)
+[![linkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-jihad/)
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
-
-## 🔗 Links
-[![Visit My linkedIn Profile](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-jihad/)
 
 ## 🔗 Activity Widgets
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats) 
 ![](https://komarev.com/ghpvc/?username=Developer-Jihad) </br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad) 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Jihad&show_icons=true&count_private=true) </br> --->
-
 
 ## My Current Activities
 👩‍💻 I'm currently working on...
@@ -40,12 +36,6 @@ Javascript, HTML, CSS...
 😄 Pronouns...
 
 ⚡️ Fun fact...
-
-
-
-
-
-- ⚡ Fun fact: ...
 
 <!---
 Developer-Jihad/Developer-Jihad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

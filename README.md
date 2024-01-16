@@ -15,7 +15,7 @@
 ![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-<div style="display:flex">
+<div style={display:flex, gap: 10px}>
   <img src="https://i.ibb.co/2jM3X3F/pngwing-com-13.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/bHNgjwY/1.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/L5Rxb83/axios.png" alt="Girl in a jacket" height="50">

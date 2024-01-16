@@ -18,7 +18,7 @@
 <div>
 <img src="https://i.ibb.co/zmYymgB/pngwing-com-1.png" alt="Html" height="50">
 <img src="https://i.ibb.co/mC6xnTP/pngwing-com-2.png" alt="CSS" height="50">
-<img style="border-radius:10px" src="https://i.ibb.co/bHNgjwY/1.png" alt="Tailwind" height="50">
+<img style="margin-right: 1rem" src="https://i.ibb.co/bHNgjwY/1.png" alt="Tailwind" height="50">
 <img src="https://i.ibb.co/C8FJ80X/pngwing-com-6.png" alt="Bootstrap" height="50">
 <img style="border-radius:10px" src="https://i.ibb.co/t2Qctsk/pngwing-com-3.png" alt="JavaScript" height="50">
 <img src="https://i.ibb.co/DMsN2GY/pngwing-com-9.png" alt="React" height="50">

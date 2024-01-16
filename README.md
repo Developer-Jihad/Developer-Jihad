@@ -24,7 +24,7 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<img src="https://media.licdn.com/dms/image/D5635AQH70z1B0eJRVA/profile-framedphoto-shrink_100_100/0/1704446429810?e=1705986000&v=beta&t=W747fgAAKW4EtnmBoqDNuQFfOB_lcyYYxQZcOloj_JA" alt="Girl in a jacket" width="500" height="600">
+<img src="https://media.licdn.com/dms/image/D5635AQH70z1B0eJRVA/profile-framedphoto-shrink_100_100/0/1704446429810?e=1705986000&v=beta&t=W747fgAAKW4EtnmBoqDNuQFfOB_lcyYYxQZcOloj_JA" alt="Girl in a jacket" width="50">
 
 ### Graphics Design
 ![JavaScript](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)

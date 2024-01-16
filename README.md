@@ -14,8 +14,21 @@
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<img src="https://media.licdn.com/dms/image/D5635AQH70z1B0eJRVA/profile-framedphoto-shrink_100_100/0/1704446429810?e=1705986000&v=beta&t=W747fgAAKW4EtnmBoqDNuQFfOB_lcyYYxQZcOloj_JA" alt="Girl in a jacket" width="50">
-
+<img src="https://i.ibb.co/PCxmpBY/pngwing-com.png" alt="Girl in a jacket" height="50">
+<img src="https://i.ibb.co/2jM3X3F/pngwing-com-13.png" alt="Girl in a jacket" height="50">
+<img src="https://i.ibb.co/bHNgjwY/1.png" alt="Girl in a jacket" height="50">
+<img src="https://i.ibb.co/L5Rxb83/axios.png" alt="Girl in a jacket" height="50">
+<img src="https://i.ibb.co/zmYymgB/pngwing-com-1.png" alt="Girl in a jacket" height="50">
+<img src="https://i.ibb.co/mC6xnTP/pngwing-com-2.png" alt="Girl in a jacket" height="50">
+<img src="https://i.ibb.co/t2Qctsk/pngwing-com-3.png" alt="Girl in a jacket" height="50">
+<img src="https://i.ibb.co/2tpFq3f/pngwing-com-4.png" alt="Girl in a jacket" height="50">
+<img src="https://i.ibb.co/C8FJ80X/pngwing-com-6.png" alt="Girl in a jacket" height="50">
+<img src="https://i.ibb.co/0yTxGtk/pngwing-com-7.png" alt="Girl in a jacket" height="50">
+<img src="https://i.ibb.co/8dFB7cq/pngwing-com-8.png" alt="Girl in a jacket" height="50">
+<img src="https://i.ibb.co/DMsN2GY/pngwing-com-9.png" alt="Girl in a jacket" height="50">
+<img src="https://i.ibb.co/zXwchr0/pngwing-com-10.png" alt="Girl in a jacket" height="50">
+<img src="https://i.ibb.co/yBQHYMH/pngwing-com-11.png" alt="Girl in a jacket" height="50">
+<img src="https://i.ibb.co/CHtY7xJ/pngwing-com-12.png" alt="Girl in a jacket" height="50">
 
 ## Activity Widgets
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats) 

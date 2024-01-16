@@ -24,8 +24,10 @@ I can create visually stunning user interfaces with seamless and responsive desi
 
 ## Connect with Me
 Let's connect and explore how I can contribute to your Next Project. Feel free to reach out for discussions on web development, design, or anything related to the ever-evolving world of technology. </br> </br>
-<li>📧 Email: jihad.developer.bd@gmail.com</li>
+<ul>
+  <li>📧 Email: jihad.developer.bd@gmail.com</li>
 <li>📞 Phone: +880 130417316</li>
+</ul>
 ![Nodejs](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-jihad/)</br>
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)

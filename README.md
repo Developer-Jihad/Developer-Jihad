@@ -26,11 +26,7 @@
 Let's connect and explore how I can contribute to your Next Project. Feel free to reach out for discussions on web development, design, or anything related to the ever-evolving world of technology. </br> </br>
 - 📧 Email: jihad.developer.bd@gmail.com
 - 📞 Phone: +880 130417316
-</br> </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-jihad/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-jihad/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-jihad/)
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-jihad/)
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Jihad&show_icons=true&count_private=true) </br> --->
 

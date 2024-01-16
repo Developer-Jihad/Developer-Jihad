@@ -16,7 +16,7 @@ Javascript, HTML, CSS...
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/developer-jihad/))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats)
 [GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad)
-![](https://komarev.com/ghpvc/?username=Developer-Jihad&color=green)
+![](https://komarev.com/ghpvc/?username=Developer-Jihad)
 
 ## My Current Activities
 👩‍💻 I'm currently working on...

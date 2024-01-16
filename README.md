@@ -20,7 +20,7 @@
 <img src="https://i.ibb.co/NsXNxVZ/New-Project-7.png" alt="NodeJs" height="70">
 </div>
 
-## Connect with Me
+## 🔗 Connect with Me
 Let's connect and explore how I can contribute to your Next Project. Feel free to reach out for discussions on web development, design, or anything related to the ever-evolving world of technology. </br>
 - 🌐 LinkedIn: https://www.linkedin.com/in/developer-jihad/
 - 📧 Email: jihad.developer.bd@gmail.com

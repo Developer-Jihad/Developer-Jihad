@@ -15,7 +15,7 @@
 ![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-<div style="display:flex; gap: 100px">
+<div>
 <img src="https://i.ibb.co/zmYymgB/pngwing-com-1.png" alt="Html" height="50">
 <img src="https://i.ibb.co/mC6xnTP/pngwing-com-2.png" alt="CSS" height="50">
 <img style="border-radius:10px" src="https://i.ibb.co/bHNgjwY/1.png" alt="Tailwind" height="50">

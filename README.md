@@ -16,6 +16,8 @@
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
+![WhatsApp](https://aleen42.github.io/badges/src/illustrator.svg)
+
 
 ## ✨ Activity Widgets
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats) 

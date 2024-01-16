@@ -30,7 +30,8 @@
 </div>
 
 ## Activity Widgets
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats) 
+<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats) " alt="Express" widtg="500">
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad)
 ![](https://komarev.com/ghpvc/?username=Developer-Jihad) </br>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-RonyAhmed) 

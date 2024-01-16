@@ -22,7 +22,8 @@
 
 ## Connect with Me
 Let's connect and explore how I can contribute to your Next Project. Feel free to reach out for discussions on web development, design, or anything related to the ever-evolving world of technology. </br> </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-jihad/) <span>https://www.linkedin.com/in/developer-jihad/</span> </br>
+
+- <img src="https://i.ibb.co/TkfkdvT/linkedIn.png" alt="NodeJs" height="20"> LinkedIn: https://www.linkedin.com/in/developer-jihad/
 - 📧 Email: jihad.developer.bd@gmail.com
 - 📞 Phone: +880 130417316 
 

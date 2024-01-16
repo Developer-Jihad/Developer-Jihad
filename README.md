@@ -29,6 +29,27 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 - 📧 Email: jihad.developer.bd@gmail.com
 - 📞 Phone: +880 130417316
 
+## Specialized In [ Front End ]
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,mongodb" /> 
+
+## Tools
+<img src="https://skillicons.dev/icons?i=vscode,figma,vite,vercel" />
+
+
+## Projects
+
+### TodoList (Vanilla JavaScript)
+
+- **Description:** CRUD operations (Add, Delete, Edit, Completed).
+- **GitHub Link:** [TodoList (Vanilla JavaScript)](https://github.com/RashedAbdullah/LogicBuild/tree/main/TodoList)
+- **Live Link:** [TodoList (Vanilla JavaScript)](https://logic-build.vercel.app)
+
+### TodoList (React.js)
+
+- **Description:** CRUD operations (Add, Delete, Edit, Completed).
+- **GitHub Link:** [TodoList (React.js)](https://github.com/habib16247/Reducer-TodoApp)
+- **Live Link:** [TodoList (React.js)](https://reducer-todo-app-ashy.vercel.app/)
+
 ## Activity Widgets
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad)

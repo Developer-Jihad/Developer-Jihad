@@ -2,7 +2,7 @@
 ![](https://i.ibb.co/Y2KV7Y4/Linked-In-Cover-Design.gif)
 
 # Hi, I'm Md. Jihad Hossain! 👋
-I am a Junior Front-End Web Developer with a strong foundation in JavaScript, React JS, and proficient in Raw CSS, Tailwind, and Bootstrap. With a background in Graphics Design Skill. 
+I am a Junior Front-End Web Developer with a strong foundation in JavaScript, React JS, and proficient in Raw CSS, Tailwind, and Bootstrap. With a background in Graphics Design Skill. </br>
 I can create visually stunning user interfaces with seamless and responsive designs. Whether it's developing dynamic and interactive web applications or refining the user experience, I am dedicated to staying at the forefront of technology trends and continuously expanding my skill set.
 
 ## 🧠 Technical Skills

@@ -6,14 +6,6 @@
 - I can create visually stunning user interfaces with seamless and responsive designs. Whether it's developing dynamic and interactive web applications or refining the user experience, I am dedicated to staying at the forefront of technology trends and continuously expanding my skill set.
 
 ## 🧠 Technical Skills
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
 <div>
 <img src="https://i.ibb.co/zmYymgB/pngwing-com-1.png" alt="Html" height="70">
 <img src="https://i.ibb.co/mC6xnTP/pngwing-com-2.png" alt="CSS" height="70">
@@ -25,8 +17,8 @@
 <img src="https://i.ibb.co/CHtY7xJ/pngwing-com-12.png" alt="Mongo" height="70">
 <img src="https://i.ibb.co/1r2gYtn/New-Project-5.png" alt="Mongo" height="70">
 <img src="https://i.ibb.co/ZgYLcpw/axios2.png" alt="Axios" height="70">
-<img src="https://i.ibb.co/8dFB7cq/pngwing-com-8.png" alt="NodeJs" height="70">
 <img src="https://i.ibb.co/2jM3X3F/pngwing-com-13.png" alt="Express" height="70">
+<img src="https://i.ibb.co/NsXNxVZ/New-Project-7.png" alt="NodeJs" height="70">
 </div>
 
 ## Activity Widgets

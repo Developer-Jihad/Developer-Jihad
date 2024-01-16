@@ -33,12 +33,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad)
 ![](https://komarev.com/ghpvc/?username=Developer-Jihad) </br>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-RonyAhmed) 
+![](https://komarev.com/ghpvc/?username=Md-RonyAhmed&color=green)
 
 ## Connect with Me
 Let's connect and explore how I can contribute to your Next Project. Feel free to reach out for discussions on web development, design, or anything related to the ever-evolving world of technology. </br> </br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-jihad/) </br> </br>
 - 📧 Email: jihad.developer.bd@gmail.com
 - 📞 Phone: +880 130417316
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-jihad/)
 
 <!---
 

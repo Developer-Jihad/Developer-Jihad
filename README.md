@@ -11,7 +11,6 @@
 <img src="https://i.ibb.co/fQgM3xT/4781249.webp" alt="Html" height="50">
 <img src="https://i.ibb.co/mC6xnTP/pngwing-com-2.png" alt="CSS" height="50">
 <img src="https://i.ibb.co/9TZ5v54/New-Project-3.png" alt="JavaScript" height="50">
-<img src="https://i.ibb.co/1dGrc80/New-Project.png" alt="React" height="50">
 <img src="https://i.ibb.co/hM3rM1v/New-Project-6.png" alt="react" height="50">
 <img src="https://i.ibb.co/C8FJ80X/pngwing-com-6.png" alt="Bootstrap" height="50">
 <img src="https://i.ibb.co/zX1ws7q/New-Project-2.png" alt="Tailwind" height="50">

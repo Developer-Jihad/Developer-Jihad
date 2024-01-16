@@ -1,7 +1,6 @@
-### 👋 As-Salamu'alaikum Warohmatullah, Welcome to my Github Profile... </br></br>
 
 ![](https://i.ibb.co/Y2KV7Y4/Linked-In-Cover-Design.gif)
-
+# Welcome to my Github Profile... </br></br>
 ## About Me
 I am a Junior Front-End Web Developer with a strong foundation in JavaScript, React JS, and proficient in Raw CSS, Tailwind, and Bootstrap. With a background in Graphics Design Skill. 
 

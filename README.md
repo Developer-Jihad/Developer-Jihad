@@ -17,6 +17,7 @@ Javascript, HTML, CSS...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats)
 [GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad)
 ![](https://komarev.com/ghpvc/?username=Developer-Jihad)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Jihad&show_icons=true&count_private=true)
 
 ## My Current Activities
 👩‍💻 I'm currently working on...

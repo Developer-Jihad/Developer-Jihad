@@ -15,7 +15,7 @@ Javascript, HTML, CSS...
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/developer-jihad/))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-RonyAhmed)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github.com/Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Current Activities
 👩‍💻 I'm currently working on...

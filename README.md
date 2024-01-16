@@ -22,7 +22,6 @@
 
 ## Connect with Me
 Let's connect and explore how I can contribute to your Next Project. Feel free to reach out for discussions on web development, design, or anything related to the ever-evolving world of technology. </br> </br>
-
 - 🌐 LinkedIn: https://www.linkedin.com/in/developer-jihad/
 - 📧 Email: jihad.developer.bd@gmail.com
 - 📞 Phone: +880 130417316 

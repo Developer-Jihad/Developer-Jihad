@@ -34,12 +34,25 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
+                h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
             .test{
               display: flex;
                 justify-content: center;
                 background: red;
             }
             </style>
+            <h1>HELLO WORLD!</h1>
          <div class="test" >
             <img src="https://i.ibb.co/zmYymgB/pngwing-com-1.png" alt="Html" height="50">
             <img src="https://i.ibb.co/mC6xnTP/pngwing-com-2.png" alt="CSS" height="50">

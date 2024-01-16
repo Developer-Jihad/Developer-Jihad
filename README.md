@@ -14,7 +14,7 @@
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<img src="https://i.ibb.co/PCxmpBY/pngwing-com.png" alt="Girl in a jacket" height="50">
+
 <img src="https://i.ibb.co/2jM3X3F/pngwing-com-13.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/bHNgjwY/1.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/L5Rxb83/axios.png" alt="Girl in a jacket" height="50">

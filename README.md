@@ -7,9 +7,7 @@
 
 ## 🧠 Technical Skills
 
-<marquee><h1 style="color: cyan" >Ajker taja khobor: <span style="color: red">Mansur vai nake aj theke kotha bolbe na</span></h1></marquee>
-
-<div style="display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center;align-items: center; background: cyan; padding: 5rem; border: 5px solid; border-radius: 2rem">
+<div style="display: flex; gap: 2rem;">
 <img src="https://i.ibb.co/fQgM3xT/4781249.webp" alt="Html" height="70">
 <img src="https://i.ibb.co/mC6xnTP/pngwing-com-2.png" alt="CSS" height="70">
 <img src="https://i.ibb.co/9TZ5v54/New-Project-3.png" alt="JavaScript" height="70">

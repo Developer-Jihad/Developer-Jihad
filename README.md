@@ -13,14 +13,13 @@
 Javascript, HTML, CSS...
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/developer-jihad/))
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-jihad/)
 
 ## 🔗 Activity Widgets
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats) 
 ![](https://komarev.com/ghpvc/?username=Developer-Jihad) </br>
-<!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Jihad&show_icons=true&count_private=true) </br> --->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad) 
+<!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Jihad&show_icons=true&count_private=true) </br> --->
 
 
 ## My Current Activities

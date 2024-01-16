@@ -2,7 +2,7 @@
 
 ![](https://data.terabox.com/thumbnail/964a2466458d4af33c343f70f8914a3a?fid=4398880206227-250528-397444425213235&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-FoLb3Z%2bLZ1YoNFpqR5LiJvQGLck%3d&expires=8h&chkbd=0&chkv=0&dp-logid=360362564434200339&dp-callid=0&time=1705377600&size=c1366_u768&quality=90&vuk=4398880206227&ft=image&autopolicy=1)
 
-![](https://terabox.com/s/1QLPYhIszjkqhOhv6xtyXlA)
+![](https://i.ibb.co/Y2KV7Y4/Linked-In-Cover-Design.gif)
 
 ## About Me
 I am a Junior Front-End Web Developer with a strong foundation in JavaScript, React JS, and proficient in Raw CSS, Tailwind, and Bootstrap. With a background in Graphics Design Skill. 

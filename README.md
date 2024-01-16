@@ -18,7 +18,7 @@ Javascript, HTML, CSS...
 ## 🔗 Links
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats) 
 ![](https://komarev.com/ghpvc/?username=Developer-Jihad) </br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Jihad&show_icons=true&count_private=true) </br>
+<!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Jihad&show_icons=true&count_private=true) </br> --->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad) 
 
 

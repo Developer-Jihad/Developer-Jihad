@@ -29,47 +29,6 @@
 <img src="https://i.ibb.co/2jM3X3F/pngwing-com-13.png" alt="Express" height="50">
 </div>
 
-
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                h1 {
-                color: red;
-                animation: mymove 2s infinite;
-            }
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
-            .test{
-              display: flex;
-                justify-content: center;
-                background: red;
-            }
-            </style>
-            <h1>HELLO WORLD!</h1>
-         <div class="test" >
-            <img src="https://i.ibb.co/zmYymgB/pngwing-com-1.png" alt="Html" height="50">
-            <img src="https://i.ibb.co/mC6xnTP/pngwing-com-2.png" alt="CSS" height="50">
-            <img style="margin-right: 1rem; display: block" src="https://i.ibb.co/bHNgjwY/1.png" alt="Tailwind" height="50">
-            <img src="https://i.ibb.co/C8FJ80X/pngwing-com-6.png" alt="Bootstrap" height="50">
-            <img style="border-radius:10px" src="https://i.ibb.co/t2Qctsk/pngwing-com-3.png" alt="JavaScript" height="50">
-            <img src="https://i.ibb.co/DMsN2GY/pngwing-com-9.png" alt="React" height="50">
-            <img src="https://i.ibb.co/zXwchr0/pngwing-com-10.png" alt="Firebase" height="50">
-            <img src="https://i.ibb.co/CHtY7xJ/pngwing-com-12.png" alt="Mongo" height="50">
-            <img src="https://i.ibb.co/L5Rxb83/axios.png" alt="Axios" height="50">
-            <img src="https://i.ibb.co/8dFB7cq/pngwing-com-8.png" alt="NodeJs" height="50">
-            <img src="https://i.ibb.co/2jM3X3F/pngwing-com-13.png" alt="Express" height="50">
-          </div>
-        </div>
-    </foreignObject>
-</svg>
-
 ## Activity Widgets
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad) 

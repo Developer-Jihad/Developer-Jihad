@@ -16,15 +16,15 @@
 
 
 <div style={display:flex, gap: 100px}>
+<img src="https://i.ibb.co/L5Rxb83/axios.png" alt="Html" height="50">
+<img src="https://i.ibb.co/zmYymgB/pngwing-com-1.png" alt="CSS" height="50">
+<img src="https://i.ibb.co/mC6xnTP/pngwing-com-2.png" alt="JavaScript" height="50">
+<img src="https://i.ibb.co/DMsN2GY/pngwing-com-9.png" alt="React" height="50">
   <img src="https://i.ibb.co/2jM3X3F/pngwing-com-13.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/bHNgjwY/1.png" alt="Girl in a jacket" height="50">
-<img src="https://i.ibb.co/L5Rxb83/axios.png" alt="Girl in a jacket" height="50">
-<img src="https://i.ibb.co/zmYymgB/pngwing-com-1.png" alt="Girl in a jacket" height="50">
-<img src="https://i.ibb.co/mC6xnTP/pngwing-com-2.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/t2Qctsk/pngwing-com-3.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/C8FJ80X/pngwing-com-6.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/8dFB7cq/pngwing-com-8.png" alt="Girl in a jacket" height="50">
-<img src="https://i.ibb.co/DMsN2GY/pngwing-com-9.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/zXwchr0/pngwing-com-10.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/CHtY7xJ/pngwing-com-12.png" alt="Girl in a jacket" height="50">
 </div>

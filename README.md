@@ -14,14 +14,22 @@
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+https://i.ibb.co/hM3rM1v/New-Project-6.png
+https://i.ibb.co/ZgYLcpw/axios2.png
+https://i.ibb.co/3mrMJZV/New-Project-1.png
+https://i.ibb.co/zX1ws7q/New-Project-2.png
+https://i.ibb.co/9TZ5v54/New-Project-3.png
+https://i.ibb.co/1dGrc80/New-Project.png
+https://i.ibb.co/RjtdC1y/New-Project-4.png
+https://i.ibb.co/1r2gYtn/New-Project-5.png
 
-<div style="display:flex; justify-content: center">
+<div>
 <img src="https://i.ibb.co/zmYymgB/pngwing-com-1.png" alt="Html" height="50">
 <img src="https://i.ibb.co/mC6xnTP/pngwing-com-2.png" alt="CSS" height="50">
-<img style="margin-right: 1rem; display: block" src="https://i.ibb.co/bHNgjwY/1.png" alt="Tailwind" height="50">
+<img src="https://i.ibb.co/zX1ws7q/New-Project-2.png" alt="Tailwind" height="50">
 <img src="https://i.ibb.co/C8FJ80X/pngwing-com-6.png" alt="Bootstrap" height="50">
-<img style="border-radius:10px" src="https://i.ibb.co/t2Qctsk/pngwing-com-3.png" alt="JavaScript" height="50">
-<img src="https://i.ibb.co/DMsN2GY/pngwing-com-9.png" alt="React" height="50">
+<img src="https://i.ibb.co/t2Qctsk/pngwing-com-3.png" alt="JavaScript" height="50">
+<img src="https://i.ibb.co/hM3rM1v/New-Project-6.png" alt="React" height="50">
 <img src="https://i.ibb.co/zXwchr0/pngwing-com-10.png" alt="Firebase" height="50">
 <img src="https://i.ibb.co/CHtY7xJ/pngwing-com-12.png" alt="Mongo" height="50">
 <img src="https://i.ibb.co/L5Rxb83/axios.png" alt="Axios" height="50">

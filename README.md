@@ -15,22 +15,21 @@
 <img src="https://i.ibb.co/C8FJ80X/pngwing-com-6.png" alt="Bootstrap" height="70">
 <img src="https://i.ibb.co/RjtdC1y/New-Project-4.png" alt="Firebase" height="70">
 <img src="https://i.ibb.co/CHtY7xJ/pngwing-com-12.png" alt="Mongo" height="70">
-
 <img src="https://i.ibb.co/ZgYLcpw/axios2.png" alt="Axios" height="70">
 <img src="https://i.ibb.co/2jM3X3F/pngwing-com-13.png" alt="Express" height="70">
 <img src="https://i.ibb.co/NsXNxVZ/New-Project-7.png" alt="NodeJs" height="70">
 </div>
-
-## Activity Widgets
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=Developer-Jihad) </br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad)
 
 ## Connect with Me
 Let's connect and explore how I can contribute to your Next Project. Feel free to reach out for discussions on web development, design, or anything related to the ever-evolving world of technology. </br> </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-jihad/) </br>
 - 📧 Email: jihad.developer.bd@gmail.com
 - 📞 Phone: +880 130417316 
+
+## Activity Widgets
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=Developer-Jihad) </br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad)
 
 <!---
 

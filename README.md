@@ -6,7 +6,6 @@ I am a Junior Front-End Web Developer with a strong foundation in JavaScript, Re
 I can create visually stunning user interfaces with seamless and responsive designs. Whether it's developing dynamic and interactive web applications or refining the user experience, I am dedicated to staying at the forefront of technology trends and continuously expanding my skill set.
 
 ## 🧠 Technical Skills
-### Web Development
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
@@ -17,9 +16,6 @@ I can create visually stunning user interfaces with seamless and responsive desi
 
 <img src="https://media.licdn.com/dms/image/D5635AQH70z1B0eJRVA/profile-framedphoto-shrink_100_100/0/1704446429810?e=1705986000&v=beta&t=W747fgAAKW4EtnmBoqDNuQFfOB_lcyYYxQZcOloj_JA" alt="Girl in a jacket" width="50">
 
-### Graphics Design
-![JavaScript](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
 
 ## Activity Widgets
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad)](https://github.com/anuraghazra/github-readme-stats) 
@@ -31,12 +27,12 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 <li>📧 Email: jihad.developer.bd@gmail.com</li>
 <li>📞 Phone: +880 130417316</li>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-jihad/)</br>
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)]
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)]
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Jihad&show_icons=true&count_private=true) </br> --->
 
 <!---
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)]
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)]
 ## My Current Activities
 👩‍💻 I'm currently working on...
 

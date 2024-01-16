@@ -22,9 +22,7 @@
 <img src="https://i.ibb.co/zmYymgB/pngwing-com-1.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/mC6xnTP/pngwing-com-2.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/t2Qctsk/pngwing-com-3.png" alt="Girl in a jacket" height="50">
-<img src="https://i.ibb.co/2tpFq3f/pngwing-com-4.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/C8FJ80X/pngwing-com-6.png" alt="Girl in a jacket" height="50">
-<img src="https://i.ibb.co/0yTxGtk/pngwing-com-7.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/8dFB7cq/pngwing-com-8.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/DMsN2GY/pngwing-com-9.png" alt="Girl in a jacket" height="50">
 <img src="https://i.ibb.co/zXwchr0/pngwing-com-10.png" alt="Girl in a jacket" height="50">

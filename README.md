@@ -27,6 +27,7 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 <li>📧 Email: jihad.developer.bd@gmail.com</li>
 <li>📞 Phone: +880 130417316</li>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-jihad/)</br>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Jihad&show_icons=true&count_private=true) </br> --->
 

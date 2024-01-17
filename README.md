@@ -20,12 +20,12 @@
 <br/>
 <br/>
 
+<h2>🔗 Connect with Me</h2>
 <table>
 <tr>
 <td width="200px" align="center">
 <br/>
 <img src="https://i.ibb.co/fdmzndZ/contact-2.png" alt="NodeJs" width="150px">
-<br/>
 <br/>
 <a href="https://www.linkedin.com/in/developer-jihad/" target="_blank">
 <img src="https://i.ibb.co/QYtd5QJ/linked-In-logo-1.png" alt="LinkedIn" width="150px">
@@ -34,7 +34,6 @@
 <br/>
 </td>
 <td>
-<h2>🔗 Connect with Me</h2>
 <p>
 Let's connect and explore how I can contribute to your Next Project. Feel free to reach out for discussions on web development, design, or anything related to the ever-evolving world of technology.</p>
 

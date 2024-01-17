@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Developer-Jihad)
 
-# 👋 Hi, I'm Md. Jihad Hossain!
-<h3>「 A Junior web application developer from <b>Bangladesh</b> 」</h3>
+<h1 align="center">👋 Hi, I'm Md. Jihad Hossain!</h1>
+<h3 align="center">「 A Junior web application developer from <b>Bangladesh</b> 」</h3>
 <hr/>
 
 - I am a Junior Front-End Web Developer with a strong foundation in JavaScript, React JS, and proficient in Raw CSS, Tailwind, and Bootstrap. With a background in Graphics Design Skill. </br>
@@ -101,3 +101,4 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 
 
 --->
+

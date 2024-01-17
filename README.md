@@ -14,9 +14,10 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,firebase,mongodb,express,nodejs," />
 
-## Other Tools
+### Other Tools :
 
 <img src="https://skillicons.dev/icons?i=vscode,figma,vite,vercel,netlify,illustrator,photoshop," />
+<br/>
 <br/>
 
 <h2>🔗 Connect with Me</h2>
@@ -29,7 +30,6 @@
 <a href="https://www.linkedin.com/in/developer-jihad/" target="_blank">
 <img src="https://i.ibb.co/QYtd5QJ/linked-In-logo-1.png" alt="LinkedIn" width="120px">
 </a>
-<br/>
 <br/>
 </td>
 <td>
@@ -45,7 +45,7 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 </table>
 <br/>
 
-<h2>My Activity Statistics Widgets :</h2>
+<h2>⚡ My Activity Statistics Widgets :</h2>
 <table width="100%">
 <tr border="none">
 <td width="50%" >
@@ -60,7 +60,7 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 </table>
 <br/>
 
-## Projects
+## 🗂️ Projects
 
 ### TodoList (Vanilla JavaScript)
 

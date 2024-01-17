@@ -30,7 +30,7 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 
 </td>
 <td width="30%" align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJAurr5ws458IO_ts5GT84SAAFQvqmiW_otZU0n-EtzrAYNXksA5rwBnALDp5kma8X55w&usqp=CAU" alt="NodeJs" with="400px">
+<img src="https://i.ibb.co/fdmzndZ/contact-2.png" alt="NodeJs">
 <hr/>
 <p >
 <a href="https://www.linkedin.com/in/developer-jihad/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" /></a> 
@@ -41,7 +41,7 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 </table>
 
 <h2 align="center">My Activity Statistics Widgets</h2>
-<table align="center" width="100%">
+<table width="100%">
 <tr border="none">
 <td width="50%" align="center">
   
@@ -68,11 +68,6 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 - **Description:** CRUD operations (Add, Delete, Edit, Completed).
 - **GitHub Link:** [TodoList (React.js)](https://github.com/habib16247/Reducer-TodoApp)
 - **Live Link:** [TodoList (React.js)](https://reducer-todo-app-ashy.vercel.app/)
-
-
-
-
-
 
 <!---
 <div style="display: flex; gap: 2rem;">
@@ -101,4 +96,3 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 
 
 --->
-

@@ -39,15 +39,19 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 </table>
 
 <h2 align="center">My Activity Statistics Widgets</h2>
-
-
-
-
-<img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Developer-Jihad&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-
-<img alt="Developer Jihad's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+<table align="center" width="100%">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <br>
+  <img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Developer-Jihad&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+</td>
+<td width="50%" align="center">
+  <img width="100%" align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Developer-Jihad&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+</tr>
+</table>
 
 ## Projects
 
@@ -63,13 +67,8 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 - **GitHub Link:** [TodoList (React.js)](https://github.com/habib16247/Reducer-TodoApp)
 - **Live Link:** [TodoList (React.js)](https://reducer-todo-app-ashy.vercel.app/)
 
-<p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
-<br/>
-<hr/>
-<br/>
+
 
 
 
@@ -90,22 +89,13 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 </div>
 
 
+<h2 align="center">My Activity Statistics Widgets</h2>
 
-<p align="center">
-<table align="center" width="100%">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Developer-Jihad&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-  <img width="100%" align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Developer-Jihad&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
-</tr>
-</table>
+<img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Developer-Jihad&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+<img alt="Developer Jihad's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jihad&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
 
 
 --->
-

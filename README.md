@@ -44,7 +44,7 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 </table>
 
 <h2>My Activity Statistics Widgets :</h2>
-<table align="center" width="100%">
+<table width="100%">
 <tr border="none">
 <td width="50%" align="center">
   

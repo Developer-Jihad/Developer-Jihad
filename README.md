@@ -31,6 +31,7 @@
 <img src="https://i.ibb.co/QYtd5QJ/linked-In-logo-1.png" alt="LinkedIn" width="120px">
 </a>
 <br/>
+<br/>
 </td>
 <td>
 <p>

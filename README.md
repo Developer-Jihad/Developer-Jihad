@@ -4,8 +4,12 @@
 
 <h1 align="center">👋 Hi, I am Md. Jihad Hossain! ( Web Developer 🧑‍💻)</h1>
 <br/>
-- I am a Junior Front-End Web Developer with a strong foundation in JavaScript, React JS, and proficient in Raw CSS, Tailwind, and Bootstrap. With a background in Graphics Design Skill. </br>
-- I can create visually stunning user interfaces with seamless and responsive designs. Whether it's developing dynamic and interactive web applications or refining the user experience, I am dedicated to staying at the forefront of technology trends and continuously expanding my skill set.
+<ul>
+<li>I am a Junior Front-End Web Developer with a strong foundation in JavaScript, React JS, and proficient in Raw CSS, Tailwind, and Bootstrap. With a background in Graphics Design Skill.</li>
+<li>I can create visually stunning user interfaces with seamless and responsive designs. Whether it's developing dynamic and interactive web applications or refining the user experience, I am dedicated to staying at the forefront of technology trends and continuously expanding my skill set.</li>
+
+</ul>
+<br/>
 <br/>
 
 ## 🧠 Specialized In ( Front-End )
@@ -15,6 +19,7 @@
 ## Other Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,figma,vite,vercel,netlify,illustrator,photoshop," />
+<br/>
 <br/>
 
 <table>
@@ -72,8 +77,6 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 - **Description:** CRUD operations (Add, Delete, Edit, Completed).
 - **GitHub Link:** [TodoList (React.js)](https://github.com/habib16247/Reducer-TodoApp)
 - **Live Link:** [TodoList (React.js)](https://reducer-todo-app-ashy.vercel.app/)
-
-
 
 <!---
 <div style="display: flex; gap: 2rem;">

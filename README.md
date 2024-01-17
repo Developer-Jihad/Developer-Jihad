@@ -19,7 +19,7 @@
 
 <table>
 <tr>
-<td align="center">
+<td width="200px" align="center">
 <img src="https://i.ibb.co/fdmzndZ/contact-2.png" alt="NodeJs" width="150px">
 <br/>
 <br/>

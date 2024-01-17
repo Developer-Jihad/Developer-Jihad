@@ -30,7 +30,7 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 
 </td>
 <td width="30%" align="center">
-<img src="https://i.ibb.co/fdmzndZ/contact-2.png" alt="NodeJs">
+<img src="https://i.ibb.co/fdmzndZ/contact-2.png" alt="NodeJs" width="150px">
 <hr/>
 <p >
 <a href="https://www.linkedin.com/in/developer-jihad/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" /></a> 

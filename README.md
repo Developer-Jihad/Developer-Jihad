@@ -20,6 +20,7 @@
 <table>
 <tr>
 <td width="200px" align="center">
+<br/>
 <img src="https://i.ibb.co/fdmzndZ/contact-2.png" alt="NodeJs" width="150px">
 <br/>
 <br/>
@@ -27,7 +28,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
 </a>
 <br/>
-
+<br/>
 </td>
 <td>
 <h2>🔗 Connect with Me</h2>

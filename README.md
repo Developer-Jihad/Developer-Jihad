@@ -18,7 +18,6 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,figma,vite,vercel,netlify,illustrator,photoshop," />
 <br/>
-<br/>
 
 <h2>🔗 Connect with Me</h2>
 <table>

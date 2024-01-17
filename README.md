@@ -23,12 +23,12 @@
 <h2>🔗 Connect with Me</h2>
 <table>
 <tr>
-<td width="200px" align="center">
+<td width="150px" align="center">
 <br/>
-<img src="https://i.ibb.co/fdmzndZ/contact-2.png" alt="NodeJs" width="150px">
+<img src="https://i.ibb.co/fdmzndZ/contact-2.png" alt="NodeJs" width="120px">
 <br/>
 <a href="https://www.linkedin.com/in/developer-jihad/" target="_blank">
-<img src="https://i.ibb.co/QYtd5QJ/linked-In-logo-1.png" alt="LinkedIn" width="150px">
+<img src="https://i.ibb.co/QYtd5QJ/linked-In-logo-1.png" alt="LinkedIn" width="120px">
 </a>
 <br/>
 <br/>

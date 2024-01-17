@@ -25,7 +25,7 @@
 <br/>
 <br/>
 <a href="https://www.linkedin.com/in/developer-jihad/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+<img src="https://i.ibb.co/QYtd5QJ/linked-In-logo-1.png" alt="LinkedIn" width="80%">
 </a>
 <br/>
 <br/>

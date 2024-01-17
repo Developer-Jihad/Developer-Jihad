@@ -19,6 +19,16 @@
 
 <table>
 <tr>
+<td width="30%" align="center">
+<img src="https://i.ibb.co/fdmzndZ/contact-2.png" alt="NodeJs" width="150px">
+<br/>
+<br/>
+<a href="https://www.linkedin.com/in/developer-jihad/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+</a>
+<br/>
+
+</td>
 <td>
 <h2>🔗 Connect with Me</h2>
 <p>
@@ -28,9 +38,6 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 - 📧 Email: jihad.developer.bd@gmail.com
 - 📞 Phone: +880 130417316
 
-</td>
-<td width="30%" align="center">
-<img src="https://i.ibb.co/fdmzndZ/contact-2.png" alt="" width="150px">
 </td>
 </tr>
 </table>

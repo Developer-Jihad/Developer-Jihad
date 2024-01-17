@@ -3,9 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=Developer-Jihad)
 
 <h1 align="center">👋 Hi, I am Md. Jihad Hossain! ( Web Developer 🧑‍💻)</h1>
-
+<br/>
 - I am a Junior Front-End Web Developer with a strong foundation in JavaScript, React JS, and proficient in Raw CSS, Tailwind, and Bootstrap. With a background in Graphics Design Skill. </br>
 - I can create visually stunning user interfaces with seamless and responsive designs. Whether it's developing dynamic and interactive web applications or refining the user experience, I am dedicated to staying at the forefront of technology trends and continuously expanding my skill set.
+<br/>
 
 ## 🧠 Specialized In ( Front-End )
 
@@ -14,6 +15,7 @@
 ## Other Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,figma,vite,vercel,netlify,illustrator,photoshop," />
+<br/>
 
 <table>
 <tr>
@@ -40,6 +42,7 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 </td>
 </tr>
 </table>
+<br/>
 
 <h2>My Activity Statistics Widgets :</h2>
 <table width="100%">
@@ -54,6 +57,7 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 </td>
 </tr>
 </table>
+<br/>
 
 ## Projects
 

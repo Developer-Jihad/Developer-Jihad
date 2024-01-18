@@ -64,17 +64,19 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 
 ## 🗂️ Projects
 
-### TodoList (Vanilla JavaScript)
+### Job Finder (React.js)
 
-- **Description:** CRUD operations (Add, Delete, Edit, Completed).
-- **GitHub Link:** [TodoList (Vanilla JavaScript)](https://github.com/Developer-Jihad/todo-app-with-useReducer-contextApi)
-- **Live Link:** [TodoList (Vanilla JavaScript)](https://todo-app-with-use-reducer-context-api.vercel.app/)
+- **Description:** Show Jobs, Add Jobs, Delete Jobs, Edit Jobs, Favorite/Unfavorit Jobs.
+- **Source Code:** [Job Finder (React.js)](https://github.com/Developer-Jihad/halal-jibika)
+- **Live Site:** [Job Finder (React.js)](https://halal-jibika-henna.vercel.app)
+
 
 ### TodoList (React.js)
 
 - **Description:** CRUD operations (Add, Delete, Edit, Completed).
-- **GitHub Link:** [TodoList (Vanilla JavaScript)](https://github.com/Developer-Jihad/todo-app-with-useReducer-contextApi)
-- **Live Link:** [TodoList (Vanilla JavaScript)](https://todo-app-with-use-reducer-context-api.vercel.app/)
+- **Source Code:** [TodoList (React.js)](https://github.com/Developer-Jihad/todo-app-with-useReducer-contextApi)
+- **Live Site:** [TodoList (React.js)](https://todo-app-with-use-reducer-context-api.vercel.app/)
+
 
 
 <!---

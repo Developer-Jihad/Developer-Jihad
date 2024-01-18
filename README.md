@@ -64,14 +64,14 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 
 ## 🗂️ Projects
 
-### Job Finder (React.js)
+### Job Finder Web App with CURD operations (React.js)
 
 - **Description:** Show Jobs, Add Jobs, Delete Jobs, Edit Jobs, Favorite/Unfavorit Jobs.
 - **Source Code:** [Job Finder (React.js)](https://github.com/Developer-Jihad/halal-jibika)
 - **Live Site:** [Job Finder (React.js)](https://halal-jibika-henna.vercel.app)
 
 
-### TodoList (React.js)
+### TodoList Web App with CURD operations (React.js)
 
 - **Description:** CRUD operations (Add, Delete, Edit, Completed).
 - **Source Code:** [TodoList (React.js)](https://github.com/Developer-Jihad/todo-app-with-useReducer-contextApi)

@@ -11,11 +11,11 @@
 
 ## 🧠 Specialized In ( Front-End )
 
-<img src="https://skillicons.dev/icons?i=next,react,js,tailwind,bootstrap,css,html,firebase,mongodb,express,nodejs," />
+<img src="https://skillicons.dev/icons?i=next,vite,react,js,tailwind,bootstrap,css,html," />
 
 ### Other Tools :
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,vite,vercel,netlify,illustrator,photoshop," />
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,express,nodejs,vscode,figma,vercel,netlify,illustrator,photoshop," />
 <br/>
 <br/>
 

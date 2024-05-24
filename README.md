@@ -67,8 +67,8 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 ### MERN Stack Job Finder Web App with CURD operations
 
 - **Description:** Show Jobs, Add Jobs, Delete Jobs, Edit Jobs, Favorite/Unfavorite Jobs.
-- **Source Code:** [Job Finder (React.js)](https://github.com/Developer-Jihad/Halal-Jibika-MERN-Stack)
-- **Live Site:** [Job Finder (React.js)](https://halal-jibika-mern-stack.vercel.app/)
+- **Source Code:** [Job Finder (MERN Stack)](https://github.com/Developer-Jihad/Halal-Jibika-MERN-Stack)
+- **Live Site:** [Job Finder (MERN Stack)](https://halal-jibika-mern-stack.vercel.app/)
 
 
 ### TodoList Web App with CURD operations (React.js)

@@ -11,7 +11,7 @@
 
 ## 🧠 Specialized In ( Front-End )
 
-<img src="https://skillicons.dev/icons?i=next,vite,react,js,tailwind,bootstrap,css,html,firebase,mongodb," />
+<img src="https://skillicons.dev/icons?i=next,vite,react,js,ts,tailwind,mui,bootstrap,css,html,firebase,mongodb," />
 
 ### Other Tools :
 

@@ -11,11 +11,13 @@
 
 ## 🧠 Specialized In ( Front-End )
 
+### Expertise :
+
 <img src="https://skillicons.dev/icons?i=next,vite,react,js,ts,tailwind,mui,bootstrap,css,html,firebase,mongodb," />
 
-### Other Tools :
+### Familiar With :
 
-<img src="https://skillicons.dev/icons?i=express,nodejs,vscode,figma,vercel,netlify,illustrator,photoshop," />
+<img src="https://skillicons.dev/icons?i=wordpress,php,redux,express,mongodb,firebase,expo,git,vecel,netlify," />
 <br/>
 <br/>
 

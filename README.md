@@ -9,7 +9,7 @@
 </ul>
 <br/>
 
-#⚡ Specialized In (Front-End):
+# ⚡ Specialized In (Front-End):
 
 ### Expertise :
 
@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-#🔗 Connect with Me:
+# 🔗 Connect with Me:
 <table>
 <tr>
 <td width="150px" align="center">

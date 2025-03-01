@@ -49,7 +49,6 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 
 <h2>⚡ My Activity Statistics Widgets :</h2>
 <table width="100%">
-  <img width="20%" src="https://komarev.com/ghpvc/?username=Developer-Jihad"> 
 <tr border="none">
 <td width="50%" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
@@ -61,6 +60,7 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 </td>
 </tr>
 </table>
+<img width="20%" src="https://komarev.com/ghpvc/?username=Developer-Jihad"> 
 <br/>
 
 ## 🗂️ Projects

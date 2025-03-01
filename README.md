@@ -1,7 +1,7 @@
 ![](https://i.ibb.co/Y2KV7Y4/Linked-In-Cover-Design.gif)
 
 
-<h1>Hi 👋, I am Md Jihad Hossain!</h1>
+# 👋 Hi, I am Md Jihad Hossain!
 <br/>
 <ul>
 <li>I am a Junior Front-End Web Developer with a strong foundation in JavaScript, React JS, and proficient in Raw CSS, Tailwind, and Bootstrap. With a background in Graphics Design Skill.</li>
@@ -9,7 +9,7 @@
 </ul>
 <br/>
 
-# ⚡ Specialized In (Front-End):
+# ⚡🪐🏆🚀💎📧✉️⌛📊 Specialized In (Front-End):
 
 ### Expertise :
 
@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-# 🔗 Connect with Me:
+# 📧 Connect with Me:
 <table>
 <tr>
 <td width="150px" align="center">
@@ -47,7 +47,7 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 </table>
 <br/>
 
-# My Activity Statistics Widgets:
+# 📊 My Activity Statistics Widgets:
 <table width="100%">
 <tr border="none">
 <td width="50%" >

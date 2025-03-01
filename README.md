@@ -61,7 +61,6 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 </tr>
 </table>
 <img width="20%" src="https://komarev.com/ghpvc/?username=Developer-Jihad"> 
-<br/>
 
 <!---
 

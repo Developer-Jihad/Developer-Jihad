@@ -9,7 +9,7 @@
 </ul>
 <br/>
 
-# ⚡🪐🏆🚀💎📧✉️⌛📊 Specialized In (Front-End):
+# 💎 Specialized In (Front-End):
 
 ### Expertise :
 

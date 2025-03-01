@@ -55,8 +55,7 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 </td>
 <td width="50%" >
   <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Developer-Jihad&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  <img width="50%" src="https://komarev.com/ghpvc/?username=Developer-Jihad">
-  
+  <img width="50%" src="https://komarev.com/ghpvc/?username=Developer-Jihad">  
 </td>
 </tr>
 </table>

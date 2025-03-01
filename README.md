@@ -63,6 +63,8 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 <img width="20%" src="https://komarev.com/ghpvc/?username=Developer-Jihad"> 
 <br/>
 
+<!---
+
 # 🗂️ Projects
 
 ### MERN Stack Job Finder Web App with CURD operations
@@ -77,10 +79,6 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 - **Description:** CRUD operations (Add, Delete, Edit, Completed).
 - **Source Code:** [TodoList (React.js)](https://github.com/Developer-Jihad/todo-app-with-useReducer-contextApi)
 - **Live Site:** [TodoList (React.js)](https://todo-app-with-use-reducer-context-api.vercel.app/)
-
-
-
-<!---
 
 <div style="display: flex; gap: 2rem;">
 <img src="https://i.ibb.co/fQgM3xT/4781249.webp" alt="Html" height="50">

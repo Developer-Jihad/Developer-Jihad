@@ -13,11 +13,11 @@
 
 ### Expertise :
 
-<img src="https://skillicons.dev/icons?i=next,vite,react,js,ts,tailwind,mui,bootstrap,css,html,firebase,mongodb," />
+<img src="https://skillicons.dev/icons?i=next,vite,react,js,ts,tailwind,mui,bootstrap,sass,css,html," />
 
 ### Familiar With :
 
-<img src="https://skillicons.dev/icons?i=wordpress,php,redux,express,mongodb,firebase,expo,git,vecel,netlify," />
+<img src="https://skillicons.dev/icons?i=wordpress,php,redux,express,mongodb,firebase,git,vercel,netlify," />
 <br/>
 <br/>
 

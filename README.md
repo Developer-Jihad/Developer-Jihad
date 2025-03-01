@@ -9,7 +9,7 @@
 </ul>
 <br/>
 
-# 🧠 Specialized In ( Front-End )
+#⚡ Specialized In (Front-End):
 
 ### Expertise :
 
@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-<h2>🔗 Connect with Me</h2>
+#🔗 Connect with Me:
 <table>
 <tr>
 <td width="150px" align="center">
@@ -47,7 +47,7 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 </table>
 <br/>
 
-<h2>⚡ My Activity Statistics Widgets :</h2>
+# My Activity Statistics Widgets:
 <table width="100%">
 <tr border="none">
 <td width="50%" >
@@ -63,7 +63,7 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
 <img width="20%" src="https://komarev.com/ghpvc/?username=Developer-Jihad"> 
 <br/>
 
-## 🗂️ Projects
+# 🗂️ Projects
 
 ### MERN Stack Job Finder Web App with CURD operations
 

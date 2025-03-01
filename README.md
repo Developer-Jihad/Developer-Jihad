@@ -54,12 +54,12 @@ Let's connect and explore how I can contribute to your Next Project. Feel free t
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-Jihad&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   <br>
   <img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Developer-Jihad&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-  <img width="50%" src="https://komarev.com/ghpvc/?username=Developer-Jihad"> 
 </td>
 <td width="50%" >
   <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Developer-Jihad&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </tr>
+  <img width="50%" src="https://komarev.com/ghpvc/?username=Developer-Jihad"> 
 </table>
 <br/>
 
